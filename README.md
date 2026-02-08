@@ -1,6 +1,6 @@
 # 🎵 Beat.com
 
---- What is it?
+> What is it?
 
 A website where you make beat's/music the old way!
 It imitates sampler pad like the
